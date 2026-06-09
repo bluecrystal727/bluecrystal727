@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Blue Crsytal</h1>
-<h3 align="center">AI & Full-Stack Engineer at <b>SuperDevs</b></h3>
+<h3 align="center">AI & Full-Stack Engineer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
