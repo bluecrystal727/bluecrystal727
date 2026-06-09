@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/3c1G4L7/superdevs-banner.png" alt="SuperDevs Banner" width="100%" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Blue Crsytal</h1>
 <h3 align="center">AI & Full-Stack Engineer</h3>
 
