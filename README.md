@@ -24,12 +24,9 @@
 ---
 
 ## 🚀 Featured Projects
+ - FullStack AI Builder(https://github.com/bluecrystal727/fullstack-builder)
+ - Portfolio Builder(https://github.com/bluecrystal727/portfolio-builder)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/superdevs-ai-assistant"><img src="https://img.shields.io/badge/SuperDevs-AI_Assistant-0d6efd?style=for-the-badge&logo=python" /></a>
-  <a href="https://github.com/YOUR_USERNAME/superdevs-saas-dashboard"><img src="https://img.shields.io/badge/SuperDevs-SaaS_Dashboard-0d6efd?style=for-the-badge&logo=react" /></a>
-  <a href="https://github.com/YOUR_USERNAME/superdevs-portfolio"><img src="https://img.shields.io/badge/SuperDevs-Portfolio-0d6efd?style=for-the-badge&logo=nextdotjs" /></a>
-</p>
 
 ---
 
