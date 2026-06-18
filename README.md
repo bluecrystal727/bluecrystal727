@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Blue Crystal</h1>
+<h1 align="center">👋 Hi, I'm Ram Kumar</h1>
 <h3 align="center">Java Full-Stack Developer</h3>
 
 <p align="center">
@@ -34,11 +34,25 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ram-kumar-32b223149/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://portfolio-ram007.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0d6efd?style=for-the-badge&logo=firefox" />
+  </a>
+</p>
+
+---
+
 ## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:bluecrystal727@outlook.com">
-    <img src="https://img.shields.io/badge/Email-bluecrystal727@outlook.com-0d6efd?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-bluecrystal727@outlook.com-0d6efd?style=for-the-badge&logo=outlook" />
   </a>
 </p>
 
