@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Engineer;Spring+Boot+%7C+React+%7C+Microservices;Building+Scalable+Web+Applications&font=Fira+Code&size=25&pause=1000&color=0d6efd&center=true&vCenter=true" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Engineer;Spring+Boot;React+%7C+Microservices;Building+Scalable;Web+Applications&font=Fira+Code&size=25&pause=1000&color=0d6efd&center=true&vCenter=true" alt="Typing SVG"/>
   </a>
 </p>
 
